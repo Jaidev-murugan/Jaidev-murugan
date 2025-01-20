@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jaidev!
 
-🎓 **BE CSE Artificial Intelligence and Machine Learning ** <br>
+🎓 **BE CSE Artificial Intelligence and Machine Learning** <br>
 🎯 **Aspiring Full-Stack Developer** 
 
 ✨ I’m passionate about building scalable web applications and exploring the intersection of data and technology. 
